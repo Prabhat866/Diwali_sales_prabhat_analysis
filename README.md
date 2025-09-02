@@ -1,4 +1,4 @@
-#### 🪔 Diwali Sales Analysis
+# 🪔 Diwali Sales Analysis
 
 📊 A Data Analysis Project on Diwali Sales dataset using Python (NumPy, Pandas, Matplotlib, Seaborn).
 The project aims to analyze customer purchase behavior during the Diwali festival season and generate insights to improve business strategies.
@@ -49,4 +49,4 @@ Seaborn 🎨
 
 Contributions are welcome! Fork the repo and submit a PR 🚀
 
-# ⚡ This project helped in learning real-world data analysis workflow and customer behavior analytics.
+###⚡ This project helped in learning real-world data analysis workflow and customer behavior analytics.
